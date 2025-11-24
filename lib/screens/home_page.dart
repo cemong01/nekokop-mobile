@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               const Text(
-                "NETFLIX",
+                "NEKOKOP",
                 style: TextStyle(
                   fontSize: 26,
                   fontWeight: FontWeight.bold,

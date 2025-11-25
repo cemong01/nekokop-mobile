@@ -3,7 +3,7 @@ import 'package:nonton/main.dart';
 
 void main() {
   testWidgets('App smoke test', (WidgetTester tester) async {
-    await tester.pumpWidget(const NetflixCloneApp());
+    await tester.pumpWidget( NetflixCloneApp());
 
     // Login page should show Email and Password fields
     expect(find.text('Email'), findsOneWidget);

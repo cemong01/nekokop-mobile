@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'models/movie.dart';
-import 'screens/login_page.dart';
-import 'screens/home_page.dart';
-import 'screens/detail_page.dart';
+import 'package:nonton/models/movie.dart';
+import 'package:nonton/screens/login_page.dart';
+import 'package:nonton/screens/home_page.dart';
+import 'package:nonton/screens/detail_page.dart';
+import 'package:nonton/screens/profile_page.dart';
+import 'package:nonton/screens/search_page.dart';
 
 void main() => runApp(const NetflixCloneApp());
 
@@ -26,7 +28,10 @@ class NetflixCloneApp extends StatelessWidget {
       routes: {
         '/login': (_) => const LoginPage(),
         '/home': (_) => const HomePage(),
+        '/profile': (_) => const ProfilePage(),
+        '/search': (_) => const SearchPage(),
       },
+    
       onGenerateRoute: (settings) {
         if (settings.name == '/detail') {
           final movie = settings.arguments as Movie;

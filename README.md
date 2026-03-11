@@ -49,27 +49,22 @@ Aplikasi ini masih dalam tahap **pengembangan (development)** dan akan terus dip
 
 Clone repository:
 
-
+---
+bash
 git clone https://github.com/cemong01/nekokop-mobile.git
-
 
 Masuk ke folder project:
 
-
 cd nekokop-mobile
-
 
 Install dependency:
 
-
 flutter pub get
-
 
 Jalankan aplikasi:
 
-
 flutter run
 
-
+---
 
 

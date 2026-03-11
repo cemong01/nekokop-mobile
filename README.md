@@ -1,26 +1,51 @@
-# nonton
+# Nekokop Mobile App
 
-A new Flutter project.
+Aplikasi mobile yang dikembangkan menggunakan Flutter untuk menampilkan dan mengelola konten secara mobile.  
+Project ini dibuat sebagai latihan pengembangan aplikasi mobile dengan memanfaatkan teknologi modern serta struktur aplikasi yang terorganisir.
 
-## Getting Started
+## 🔗 Project Link
+Repository:  
+https://github.com/cemong01/nekokop-mobile
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Deskripsi Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Nekokop Mobile App merupakan aplikasi mobile yang dirancang untuk menampilkan konten secara mobile dengan tampilan yang sederhana dan mudah digunakan.  
+Aplikasi ini berfokus pada penerapan struktur project Flutter yang rapi serta implementasi navigasi antar halaman pada aplikasi mobile.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚠️ **Status Project**  
+Aplikasi ini masih dalam tahap **pengembangan (development)** dan akan terus diperbarui dengan penambahan fitur serta peningkatan performa.
 
-install project 
-menarik semua dependensi yang dibutuhkan
-```
-flutter pub get
-```
-menjalankan project
-```
-flutter run
-```
+---
+
+## ✨ Fitur Utama
+
+- Tampilan aplikasi berbasis mobile  
+- Navigasi antar halaman  
+- Pengelolaan data pada aplikasi  
+- Antarmuka yang sederhana dan mudah digunakan  
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- Flutter  
+- Dart  
+- Android Studio  
+- Git & GitHub  
+
+---
+
+## 👨‍💻 Peran Saya
+
+- Mengembangkan struktur aplikasi mobile  
+- Mendesain tampilan antarmuka aplikasi  
+- Mengimplementasikan navigasi antar halaman  
+- Mengelola source code menggunakan GitHub  
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+Clone repository:

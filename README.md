@@ -49,3 +49,11 @@ Aplikasi ini masih dalam tahap **pengembangan (development)** dan akan terus dip
 ## 🚀 Cara Menjalankan Project
 
 Clone repository:
+
+
+Masuk ke folder project:
+
+
+Install dependency:
+
+
